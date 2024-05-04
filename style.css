@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+    font-size: 18px;
+}
+.container {
+    width: 400px;
+    height: 400px;
+    color: black;
+    font-weight: bold;
+    margin: auto;
+}
